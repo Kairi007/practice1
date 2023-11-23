@@ -4,3 +4,5 @@ Gitの基礎を勉強します
 That can make your hands clap
 
 body
+
+status
